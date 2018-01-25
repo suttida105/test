@@ -1,6 +1,6 @@
 Virtual Teaching (AR) Augmented Reality in Biology
 
-Chapter 1 Nature of Life
-Chapter 2: Biology.
-Chapter 3 - Basic Chemistry
-Chapter 4: Living Cells
+<br>Chapter 1 Nature of Life
+<br>Chapter 2: Biology.
+<br>Chapter 3 - Basic Chemistry
+<br>Chapter 4: Living Cells
